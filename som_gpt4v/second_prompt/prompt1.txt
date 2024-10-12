@@ -1,0 +1,5 @@
+I have selected the objects you just chose, performed an additional segmentation on them, and marked them on the photo. Your task now is to identify the numbers corresponding to the lines or surfaces needed to complete the task from these numbers.
+To help you understand, I will show you several examples.
+
+Example 1:
+Instruction: Sweep the paper ball into the dustpan with a brush.

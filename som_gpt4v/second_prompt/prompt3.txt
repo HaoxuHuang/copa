@@ -1,0 +1,11 @@
+<Start Analyzing>
+In this task, we are required to insert books into a white bookshelf, necessitating the retention of some key numbers on both the books and the shelf.
+Numbers 11, 12, and 13 are parts of a book, with number 11 being the book's large, prominent side, which we will retain.
+Numbers 9 and 14, representing the table surface, will be discarded.
+Numbers 5 and 8 are parts of a cup, irrelevant to the task, and thus discarded.
+Numbers 1, 2, 4, 6, and 7 are on the white bookshelf, where we will retain the clearer and more noticeable bottom surface 4 and side surface 1.
+<End Analyzing>
+Object Label: [1, 4, 11]
+
+Example 3:
+Instruction: Pound garlic in wooden jar with stick.

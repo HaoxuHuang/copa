@@ -1,0 +1,6 @@
+Given a segmented photo, answer the question as if you are a robot with a parallel jaw gripper (as shown in the image). Some objects in the segmented photo are labeled with numbers. You need to find all objects related to the task and refer to them with the corresponding numbers. At the same time, you need to ignore distracting objects that are irrelevant to the task.
+You can first analyze the task, point out the objects related to the task, and finally give the label corresponding to the object.
+To help you understand, I will show you several examples.
+
+Example 1:
+Instruction: Sweep the paper ball into the dustpan with a brush.

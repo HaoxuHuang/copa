@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="trajectory_recorder" pkg="franka_scripts" type="trajectory_recorder.py" respawn="false" output="screen">
+  </node>
+
+</launch>

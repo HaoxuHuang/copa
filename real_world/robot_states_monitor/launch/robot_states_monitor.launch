@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="robot_states_monitor" pkg="franka_scripts" type="robot_states_monitor.py" respawn="false" output="screen">
+  </node>
+
+</launch>

@@ -1,0 +1,8 @@
+<Start Analyzing>
+In this task, I need to identify the wooden stick and the wooden jar, labeled as 8 and 4 respectively.
+Other items, such as parts of the robotic arm, blue blocks, dolls, desks, etc., are considered distractions.
+<End Analyzing>
+Object Label: [4, 8]
+
+This is the new task.
+Instruction: 

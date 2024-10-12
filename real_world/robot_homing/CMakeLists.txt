@@ -1,0 +1,6 @@
+catkin_install_python(PROGRAMS
+  scripts/robot_homing.py
+  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)
+
+install(DIRECTORY launch DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})

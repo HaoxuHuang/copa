@@ -1,0 +1,8 @@
+<Start Analyzing>
+In this task, I need to identify the book and the white bookshelf. The book is labeled as Label 5, and the bookshelf as Label 3.
+Other items such as cups and the desk are considered distractions.
+<End Analyzing>
+Object Label: [3, 5]
+
+Example 3:
+Instruction: Pound garlic in wooden jar with stick.

@@ -1,0 +1,9 @@
+<Start Analyzing>
+In this task, we are to pound garlic in a wooden jar using a stick, similar to inserting the stick into the jar. It's necessary to retain important numbers on both the stick and the jar.
+Number 3 represents the stick, which we will keep.
+Number 2 represents the mouth of the jar, and number 1 represents the body of the jar, with the mouth (number 2) being more important.
+<End Analyzing>
+Object Label: [2, 3]
+
+This is the new task.
+Instruction: 

@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="robot_homing" pkg="franka_scripts" type="robot_homing.py" respawn="false" output="screen">
+  </node>
+
+</launch>

@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="get_point_cloud" pkg="franka_scripts" type="get_point_cloud.py" respawn="false" output="screen">
+  </node>
+
+</launch>

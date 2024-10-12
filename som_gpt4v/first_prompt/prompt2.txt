@@ -1,0 +1,8 @@
+<Start Analyzing>
+In this task, I need to sweep paper balls into a dustpan using a brush. Since the paper balls simply follow the movement of the brush, the object to be identified is the brush (Label 7).
+All other objects, including the dustpan, water cup, and parts of the robotic arm, are distractions.
+<End Analyzing>
+Object Label: [7]
+
+Example 2:
+Instruction: Put the book into the white shelf.

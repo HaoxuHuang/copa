@@ -1,0 +1,11 @@
+<Start Analyzing>
+In this task, we are required to sweep paper balls into a dustpan using a brush.
+Since the only object manipulated by the robotic arm is the brush, with its most important part being the bristles (marked as number 1), it's essential to retain number 1.
+Numbers 5 and 7 represent the handle of the brush, which is smaller and does not need to interact with the paper balls.
+Number 10 is a minor corner of the brush and is not significant.
+Numbers 6, 8, and 9 belong to the paper balls and only need to move with the brush, so they are not necessary to keep.
+<End Analyzing>
+Object Label: [1]
+
+Example 2:
+Instruction: Put the book into the white shelf.
