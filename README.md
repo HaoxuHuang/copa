@@ -1,7 +1,7 @@
 # CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models
 
 [[Project page]](https://copa-2024.github.io/)
-[[Paper]]([https://](https://arxiv.org/abs/2403.08248))
+[[Paper]](https://arxiv.org/abs/2403.08248)
 
 Haoxu Huang, Fanqi Lin, Yingdong Hu, Shengjie Wang, Yang Gao
 
