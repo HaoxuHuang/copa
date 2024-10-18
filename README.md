@@ -3,7 +3,7 @@
 [[Project page]](https://copa-2024.github.io/)
 [[Paper]](https://arxiv.org/abs/2403.08248)
 
-Haoxu Huang, Fanqi Lin, Yingdong Hu, Shengjie Wang, Yang Gao
+[Haoxu Huang*](https://bpsoda.github.io/), [Fanqi Lin*](https://fanqi-lin.github.io/), Yingdong Hu, Shengjie Wang, Yang Gao
 
 This repository is the official implementation of the paper: CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models
 
